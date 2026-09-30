@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mario Mattia
 
-<!--
-**marsmath-labs/marsmath-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative Technologist · Senior Web Engineer · AI & Automation Systems Builder
 
-Here are some ideas to get you started:
+**I build the systems behind ideas.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a New York-based multidisciplinary technologist working across web engineering, digital platforms, APIs, automation, AI-assisted development, UX, creative technology, CAD and physical prototyping.
+
+## What I Build
+
+- Digital platforms and web systems
+- API integrations and connected workflows
+- AI-assisted development and automation systems
+- Creative technology prototypes
+- E-commerce and business platforms
+- CAD, 3D printing and physical/digital products
+
+## Core Technologies
+
+JavaScript · PHP · WordPress · REST APIs · MySQL · Git · HTML · CSS/SCSS · WooCommerce · Automation · AI-Assisted Development · Figma · Fusion 360
+
+## Selected Work
+
+Portfolio: mariomattia.com
